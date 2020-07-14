@@ -11,7 +11,8 @@ click here: https://simplejumpgame.netlify.app/
 
 ScreenShot:
 
-![IMG_20200714_143210](https://user-images.githubusercontent.com/56401001/87407523-2160e600-c577-11ea-8378-ecb286a1751f.jpg)
+![jump](https://user-images.githubusercontent.com/56401001/87408294-21adb100-c578-11ea-8290-bcc394a69b21.PNG)
+
 
 
 
