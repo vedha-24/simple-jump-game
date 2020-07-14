@@ -9,6 +9,11 @@ Published link:
 click here: https://simplejumpgame.netlify.app/
 
 
+ScreenShot
+
+![jump](https://user-images.githubusercontent.com/56401001/87410590-5d964580-c57b-11ea-884d-9f91bd87318c.PNG)
+
+
 
 
 
