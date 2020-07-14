@@ -10,7 +10,7 @@ click here: https://simplejumpgame.netlify.app/
 
 
 
-![screenshot](https://user-images.githubusercontent.com/56401001/87408813-dfd13a80-c578-11ea-975c-39a58ccb6885.PNG)
+
 
 
 
